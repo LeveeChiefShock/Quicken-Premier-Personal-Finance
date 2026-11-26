@@ -1,0 +1,23 @@
+{
+  "repo": "quicken-premier-personal-finance",
+  "product": "Quicken Premier Personal Finance",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "quicken-premier-personal-finance",
+    "quicken-premier",
+    "quicken-premier-finance",
+    "how-to-install-quicken-premier",
+    "how-to-setup-quicken-premier",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "quicken-personal"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Quicken Premier Personal Finance"
+}
